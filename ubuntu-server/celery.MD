@@ -18,8 +18,4 @@ $: `sudo service rabbitmq-server status`
 
 Opción 2:
 
-$: `sudo systemctl status rabbitmq-server`
-
-o
-
-$: `sudo systemctl status rabbitmq-server.service`
+$: `sudo systemctl status rabbitmq-server` o $: `sudo systemctl status rabbitmq-server.service`
